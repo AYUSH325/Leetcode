@@ -5,4 +5,4 @@ class Solution:
                 if nums[i]+nums[j] == target:
                     Sum = [i, j]
                     break
-        return Sum
+        return Sums
